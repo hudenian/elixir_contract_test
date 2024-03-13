@@ -48,5 +48,6 @@ IO.puts "Hello, World!"
 # 执行测试用例
 ```
 mix test 
+mix test --only erc20_total_supply
 ```
 

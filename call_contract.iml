@@ -30,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/nimble_options" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/rustler_precompiled" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/unicode_util_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/ex_rlp" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ethers" level="project" />
@@ -63,5 +64,6 @@
     <orderEntry type="library" name="mox" level="project" />
     <orderEntry type="library" name="stream_data" level="project" />
     <orderEntry type="library" name="hpack" level="project" />
+    <orderEntry type="library" name="ex_rlp" level="project" />
   </component>
 </module>
